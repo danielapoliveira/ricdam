@@ -1,0 +1,12 @@
+# ignore everything
+**
+
+# allow application sources
+!LICENSE
+!datasets/**
+!ricdam/**
+!requirements.txt
+
+# ignore Python cache directories
+**/__pycache__
+**/.mypy_cache

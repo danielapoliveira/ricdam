@@ -1,0 +1,14 @@
+.dash-spreadsheet .row {
+    display: block;
+    margin: 0;
+    flex-wrap: nowrap;
+}
+
+.dash-spreadsheet .Select-menu-outer {
+    display: block !important;
+    border: 1px dashed var(--accent) !important;
+}
+
+.dash-spreadsheet-menu .export {
+    display: none;
+}

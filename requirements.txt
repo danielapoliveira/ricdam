@@ -1,0 +1,4 @@
+dash==1.21.0
+dash-bootstrap-components==0.13.1
+pandas==1.5.2
+Werkzeug==2.0.3
