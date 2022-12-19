@@ -7,6 +7,10 @@ Those candidates are obtained from Content, Interoperability, and Consistency
 scores that exploit a background Knowledge Graph built from existing RDF
 datasets in the same or related domains.
 
+More details in the following research paper:
+> D. Oliveira and M. d’Aquin, “RICDaM: Recommending Interoperable and Consistent Data Models,” in Proceedings of the ISWC 2020 Demos and Industry Tracks: From Novel Ideas to Industrial Practice co-located with 19th International Semantic Web Conference (ISWC 2020), 2020, vol. 2717, p. 5. [Online]. Available: http://ceur-ws.org/Vol-2721/paper535.pdf
+
+
 This repository contains a demonstrator and [example datasets](datasets/).
 
 ## Running
